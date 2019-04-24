@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.strv.smartstadium",
+    "sha256_cert_fingerprints":
+    ["53:32:9B:46:FC:A5:7A:26:16:DC:23:12:DB:6C:F5:4D:37:C9:5D:EE:70:75:B7:BD:67:40:CC:A8:7A:0E:7E:E4"]
+  }
+}]
